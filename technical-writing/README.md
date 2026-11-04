@@ -1,14 +1,13 @@
 # 📝 Technical and Instructional Writing
 
-Selected technical procedures, product communications, visual documentation, and educational content. These samples demonstrate how I adapt structure and tone to different audiences and goals.
+Selected technical procedures, product communications, and visual documentation. These samples demonstrate how I adapt structure and tone to different audiences and goals.
 
 ## Browse samples
 
 - **[🧪 Lab Guides](lab-guides/)** — Four cloud and Linux hands-on exercises.
 - **[📣 Product Updates](product-updates/)** — Customer-facing product release communication.
-- **[📊 Infographics](infographics/)** — Two examples of visual communication.
-- **[📚 E-books](ebooks/)** — A long-form educational resource.
+- **[📊 Infographics](infographics/)** — One example of visual communication.
 
-Additional published SaaS feature documentation may be linked here in the future.
+Additional published SaaS feature documentation may be linked here in the future. As the portfolio expands, product documentation and product communications will become separate sections.
 
 [← Back to portfolio](../README.md)
