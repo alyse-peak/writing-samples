@@ -18,11 +18,10 @@ This section will feature a **metadata schema**, **content taxonomy**, and **mig
 
 ## 📝 [Technical and Instructional Writing](technical-writing/)
 
-Selected writing samples spanning technical procedures, product communications, visual documentation, and educational content.
-
-These samples demonstrate my ability to translate complex technical information into clear, actionable guidance tailored to different audiences, learning objectives, and communication needs.
+Selected hands-on cloud and Linux lab guides demonstrating technical procedures, command-line workflows, and instructional design.
 
 - **[Lab guides](technical-writing/lab-guides/)**: Step-by-step exercises for cloud computing and Linux courses in live sandbox environments.
 - **[Product updates](technical-writing/product-updates/)**: Customer-facing communications about product enhancements and new features.
-- **[Infographics](technical-writing/infographics/)**: Visual content that explains concepts and workflows.
-- **[E-books](technical-writing/ebooks/)**: Long-form educational resources and practical guidance.
+- **[Infographics](technical-writing/infographics/)**: Visual communication samples.
+
+As this portfolio evolves, these samples will be organized into **Documentation Strategy & IA**, **Product Documentation**, **Technical Writing**, and **Product Communications**.
