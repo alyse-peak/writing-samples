@@ -1,34 +1,28 @@
-# Technical Writing Portfolio
+# ✍️ Technical Writing Portfolio
 
-A collection of selected work demonstrating my experience in **technical documentation, instructional content, and documentation strategy** across cloud infrastructure, SaaS, and software products. 
+A collection of selected work demonstrating my experience in **technical documentation, instructional content, and documentation strategy** across cloud infrastructure, SaaS, and software products.
 
-In addition to traditional writing samples, this portfolio includes planning artifacts that illustrate my approach to information architecture, content organization, and documentation modernization. 
+In addition to traditional writing samples, this portfolio will include planning artifacts illustrating my approach to information architecture, content organization, and documentation modernization.
 
-For more information about my professional background and experience, visit my GitHub profile. 
+For more information about my professional background and experience, visit my [GitHub profile](https://github.com/alyse-peak).
 
 > ℹ️ **About the samples**
 >
-> This portfolio includes previously published work and selected planning artifacts from professional projects.
->
-> Some artifacts have been sanitized to remove proprietary or confidential information while preserving the original methodology and structure. Any recreated examples are identified as such.
-> 
->Additional samples and documentation strategy artifacts will be added as they become available. 
+> This portfolio contains previously published work. Future documentation-strategy artifacts may be lightly sanitized to protect proprietary information while preserving the original methodology and structure. Recreated examples, if added, will be labeled as such.
 
-## 🏗️ Documentation Strategy and Information Architecture
-Planning artifacts from a large-scale documentation modernization initiative, including the transition from legacy Word/PDF documentation to a modular, task-oriented knowledge base. 
+## 🏗️ [Documentation Strategy and Information Architecture](documentation-strategy/)
 
-These artifacts demonstrate my approach to structuring documentation for usability, discoverability, consistency, and long-term maintainability. 
+Planning artifacts from a large-scale documentation modernization initiative, including the transition from legacy Word/PDF documentation to a modular, task-oriented knowledge base.
 
-- **Metadata schema**: A structured framework for classifying documentation by product, task, audience, and content type.
-- **Content taxonomy**: A classification system for organizing documentation around products and user tasks.
-- **Migration prioritization framework**: A methodology for evaluating, consolidating, and prioritizing legacy content for migration.
+This section will feature a **metadata schema**, **content taxonomy**, and **migration prioritization framework** as they are prepared for public sharing.
 
-## 📝 Technical and Instructional Writing
-Selected writing samples spanning technical procedures, product communications, visual documentation, and educational content. 
+## 📝 [Technical and Instructional Writing](technical-writing/)
 
-These samples demonstrate my ability to translate complex technical information into clear, actionable guidance tailored to different audiences, learning objectives, and communication needs. 
+Selected writing samples spanning technical procedures, product communications, visual documentation, and educational content.
 
-- **Lab guides**: Step-by-step technical exercises developed for cloud computing and Linux courses. These guides support hands-on learning in live sandbox environment.
-- **Product updates**: Customer-facing communications that explain product enhancements, new features, and changes in clear, approachable language.
-- **Infographics**: Visual content designed to simplify technical concepts, explain workflows, and make information easier to understand.
-- **E-books**: Long-form educational resources that introduce technical concepts, provide practical guidance, and support customer learning. 
+These samples demonstrate my ability to translate complex technical information into clear, actionable guidance tailored to different audiences, learning objectives, and communication needs.
+
+- **[Lab guides](technical-writing/lab-guides/)**: Step-by-step exercises for cloud computing and Linux courses in live sandbox environments.
+- **[Product updates](technical-writing/product-updates/)**: Customer-facing communications about product enhancements and new features.
+- **[Infographics](technical-writing/infographics/)**: Visual content that explains concepts and workflows.
+- **[E-books](technical-writing/ebooks/)**: Long-form educational resources and practical guidance.
