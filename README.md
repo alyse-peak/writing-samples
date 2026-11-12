@@ -1,28 +1,56 @@
-# Technical Writing & Documentation Strategy Portfolio
+<div align="center">
 
-Selected work in **documentation strategy, information architecture, cloud technical writing, and SaaS product communications**.
+# ✍️ Technical Writing & Documentation Strategy
 
-My work spans hands-on technical procedures and product documentation as well as the systems that make documentation easier to discover, maintain, and scale. This portfolio includes published writing and adapted, anonymized examples from professional projects.
+**Making complex technology easier to understand, use, and maintain.**
 
-## Explore the portfolio
+Cloud infrastructure · SaaS product documentation · Information architecture · Content governance
 
-### [Documentation Strategy & Information Architecture](documentation-strategy/)
-Original frameworks for organizing and governing technical content: a metadata schema, task taxonomy, and documentation style guide. These demonstrate my approach to documentation modernization, editorial standards, and scalable information architecture.
+[**Explore featured work**](#-featured-work) · [**Browse by specialty**](#-browse-by-specialty) · [**About me**](#-about-me)
 
-### [Product Documentation](product-documentation/)
-A section for feature documentation, conceptual guidance, and customer workflows. Selected recent samples will be added here.
+</div>
 
-### [Technical Writing](technical-writing/)
-Hands-on cloud and Linux lab guides demonstrating procedural writing, command-line workflows, and instructional design.
+---
 
-### [Product Communications](product-communications/)
-A curated enterprise software release-notes excerpt and a previously published SaaS product update, demonstrating how I translate technical changes into customer-facing information.
+I’m a technical writer who works across both sides of documentation: **creating clear, actionable content** and **designing the systems that keep it organized and sustainable**.
 
-### [Additional visual sample](technical-writing/infographics/)
-An infographic demonstrating visual explanation and instructional design.
+This portfolio brings together selected cloud and SaaS writing samples with documentation strategy artifacts developed for a large-scale modernization initiative.
 
-## About these samples
+## 🧭 Browse by specialty
 
-Some documents are adapted and anonymized from professional work to remove company-specific names and implementation details. These are portfolio illustrations, **not current product instructions or official release announcements**. Older lab guides reflect the tools and training environments used when they were written.
+| 🏗️ **[Documentation Strategy & IA](documentation-strategy/)** | 📘 **[Product Documentation](product-documentation/)** |
+| :--- | :--- |
+| Taxonomies, metadata standards, and editorial governance that help documentation scale. | Feature explanations, customer workflows, and conceptual guidance. **More samples coming soon.** |
+| ✍️ **[Technical Writing](technical-writing/)** | 📣 **[Product Communications](product-communications/)** |
+| Hands-on cloud and Linux labs with step-by-step procedures and validation. | Release notes and product updates that translate technical changes into customer value. |
 
-For more about my background, visit my [GitHub profile](https://github.com/alyse-peak).
+## ⭐ Featured work
+
+| Sample | What it demonstrates |
+| :--- | :--- |
+| **[Task Taxonomy](documentation-strategy/task-taxonomy.pdf)** | A user-goal-driven framework built around **Learn, Deploy, Operate, Protect, Monitor, and Automate**. |
+| **[Metadata Standards](documentation-strategy/metadata-standards.pdf)** | A classification and governance model that supports content discovery, ownership, and lifecycle management. |
+| **[Documentation Style Guide](documentation-strategy/documentation-style-guide.pdf)** | Practical editorial standards for task-based writing, UI documentation, diagrams, and technical reviews. |
+| **[Release Notes — Curated Excerpt](product-communications/release-notes-excerpt.pdf)** | Outcome-focused feature announcements and clear customer-facing explanations of resolved issues. |
+
+> **About the featured artifacts:** The strategy samples and release-notes excerpt are adapted and anonymized from original professional work. They illustrate the approach and deliverables, not a live client's current documentation.
+
+## 🧪 More writing samples
+
+**Cloud & Linux labs**  
+[Apache HTTP Server](technical-writing/lab-guides/Installing%20and%20Configuring%20Apache%20HTTP%20Server%20on%20a%20Linux%20Host.md) · [AWS CodeArtifact](technical-writing/lab-guides/Setting%20Up%20CodeArtifact%20from%20the%20CLI.md) · [Azure Functions](technical-writing/lab-guides/Moving%20an%20API%20Endpoint%20to%20an%20Azure%20Function.md) · [Google Cloud Vision API](technical-writing/lab-guides/Identifying%20Landmarks%20with%20Vision%20API.md)
+
+**Additional examples**  
+[NS8 product update](product-communications/whats-new-ns8-v2-prestashop.pdf) · [Instructional infographic](technical-writing/infographics/Quick%20Study%20Design%20Infographic.pdf)
+
+*Older lab guides reflect the training environments in which they were originally developed. Version-specific instructions may no longer be current.*
+
+## 👋 About me
+
+My background spans cloud infrastructure, SaaS, instructional content, and documentation modernization. I enjoy connecting the details of technical workflows to the bigger picture: **what readers need to accomplish, how they find the right information, and how teams keep that information accurate over time**.
+
+For more about my experience, visit my **[GitHub profile](https://github.com/alyse-peak)**.
+
+---
+
+<sub>Selected professional work · Some artifacts adapted and anonymized for portfolio use · Not official product documentation</sub>
