@@ -1,10 +1,44 @@
 # Technical Documentation
 
-Technical documentation makes complex product behavior and workflows actionable. This collection brings together SaaS documentation and earlier cloud and Linux instructional work.
+Technical documentation makes complex product behavior and workflows actionable. This collection brings together published SaaS product documentation and earlier cloud and Linux instructional work.
 
 ## Featured product documentation
 
-**Selected recent SaaS samples coming soon.** This section will feature product concepts, feature documentation, and customer or lab-author workflows, with context on audience, purpose, and contribution.
+The following articles were developed during my contract engagement with **Skillable**. They demonstrate different documentation challenges—from product overviews and feature workflows to AI capabilities and cloud infrastructure procedures.
+
+### [Maintaining Lab Quality with Skillable's Bug Reporting](https://docs.skillable.com/docs/maintaining-lab-quality-with-skillables-bug-reporting)
+
+**Focus:** Feature documentation and role-based workflows.
+
+Explains the purpose of bug reporting in a lab environment and guides readers through reporting and managing issues.
+
+**Demonstrates:** Task-based organization, feature explanation, and actionable customer guidance.
+
+### [Skillable Marketplace](https://docs.skillable.com/docs/skillable-marketplace)
+
+**Focus:** Product overview and conceptual documentation.
+
+Introduces the Marketplace and helps readers understand its purpose and available capabilities.
+
+**Demonstrates:** Product positioning, conceptual clarity, and audience-oriented information design.
+
+### [Use Bicep in Azure Cloud Slice Labs](https://docs.skillable.com/docs/use-bicep-in-azure-cloud-slice-labs)
+
+**Focus:** Cloud infrastructure and technical procedures.
+
+Guides readers through using Bicep with Azure Cloud Slice labs.
+
+**Demonstrates:** Infrastructure-as-code documentation, Azure concepts, and procedural technical writing.
+
+### [Skillable AI](https://docs.skillable.com/docs/skillable-ai)
+
+**Focus:** AI-assisted product functionality.
+
+Introduces Skillable's AI capabilities and how they support content creation workflows.
+
+**Demonstrates:** Explaining emerging product functionality and connecting capabilities to user outcomes.
+
+*Attribution note: I contributed to these articles during my Skillable engagement. The links point to Skillable-maintained documentation, which may have been revised after my work was completed. In particular, the AI article has a post-engagement update; its current contents should not be taken as a verbatim record of my original draft.*
 
 ## Additional technical writing samples
 
