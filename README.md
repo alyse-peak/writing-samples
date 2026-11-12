@@ -6,7 +6,7 @@
 
 Cloud infrastructure · SaaS product documentation · Information architecture · Content governance
 
-[**Explore featured work**](#-featured-work) · [**Browse by specialty**](#-browse-by-specialty) · [**About me**](#-about-me)
+[**Featured work**](#-featured-work) · [**Browse by specialty**](#-browse-by-specialty) · [**About me**](#-about-me)
 
 </div>
 
@@ -18,11 +18,9 @@ This portfolio brings together selected cloud and SaaS writing samples with docu
 
 ## 🧭 Browse by specialty
 
-| 🏗️ **[Documentation Strategy & IA](documentation-strategy/)** | 📘 **[Product Documentation](product-documentation/)** |
-| :--- | :--- |
-| Taxonomies, metadata standards, and editorial governance that help documentation scale. | Feature explanations, customer workflows, and conceptual guidance. **More samples coming soon.** |
-| ✍️ **[Technical Writing](technical-writing/)** | 📣 **[Product Communications](product-communications/)** |
-| Hands-on cloud and Linux labs with step-by-step procedures and validation. | Release notes and product updates that translate technical changes into customer value. |
+| 🏗️ **[Documentation Strategy & IA](documentation-strategy/)** | 📘 **[Technical Documentation](technical-documentation/)** | 📣 **[Product Communications](product-communications/)** |
+| :--- | :--- | :--- |
+| Taxonomies, metadata standards, and editorial governance that help documentation scale. | SaaS product guidance, cloud workflows, and hands-on technical procedures. | Release notes and product updates that translate technical changes into customer value. |
 
 ## ⭐ Featured work
 
@@ -35,13 +33,13 @@ This portfolio brings together selected cloud and SaaS writing samples with docu
 
 > **About the featured artifacts:** The strategy samples and release-notes excerpt are adapted and anonymized from original professional work. They illustrate the approach and deliverables, not a live client's current documentation.
 
-## 🧪 More writing samples
+## 🧪 Additional technical writing samples
 
 **Cloud & Linux labs**  
-[Apache HTTP Server](technical-writing/lab-guides/Installing%20and%20Configuring%20Apache%20HTTP%20Server%20on%20a%20Linux%20Host.md) · [AWS CodeArtifact](technical-writing/lab-guides/Setting%20Up%20CodeArtifact%20from%20the%20CLI.md) · [Azure Functions](technical-writing/lab-guides/Moving%20an%20API%20Endpoint%20to%20an%20Azure%20Function.md) · [Google Cloud Vision API](technical-writing/lab-guides/Identifying%20Landmarks%20with%20Vision%20API.md)
+[Apache HTTP Server](technical-documentation/lab-guides/Installing%20and%20Configuring%20Apache%20HTTP%20Server%20on%20a%20Linux%20Host.md) · [AWS CodeArtifact](technical-documentation/lab-guides/Setting%20Up%20CodeArtifact%20from%20the%20CLI.md) · [Azure Functions](technical-documentation/lab-guides/Moving%20an%20API%20Endpoint%20to%20an%20Azure%20Function.md) · [Google Cloud Vision API](technical-documentation/lab-guides/Identifying%20Landmarks%20with%20Vision%20API.md)
 
-**Additional examples**  
-[NS8 product update](product-communications/whats-new-ns8-v2-prestashop.pdf) · [Instructional infographic](technical-writing/infographics/Quick%20Study%20Design%20Infographic.pdf)
+**Other examples**  
+[NS8 product update](product-communications/whats-new-ns8-v2-prestashop.pdf) · [Instructional infographic](technical-documentation/visual-samples/Quick%20Study%20Design%20Infographic.pdf)
 
 *Older lab guides reflect the training environments in which they were originally developed. Version-specific instructions may no longer be current.*
 
