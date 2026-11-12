@@ -20,7 +20,7 @@ This portfolio brings together selected cloud and SaaS writing samples with docu
 
 | 🏗️ **[Documentation Strategy & IA](documentation-strategy/)** | 📘 **[Technical Documentation](technical-documentation/)** | 📣 **[Product Communications](product-communications/)** |
 | :--- | :--- | :--- |
-| Taxonomies, metadata standards, and editorial governance that help documentation scale. | SaaS product guidance, cloud workflows, and hands-on technical procedures. | Release notes and product updates that translate technical changes into customer value. |
+| Taxonomies, metadata standards, and editorial governance that help documentation scale. | Published Skillable product guides, Azure workflows, and hands-on technical procedures. | Release notes and product updates that translate technical changes into customer value. |
 
 ## ⭐ Featured work
 
@@ -29,9 +29,17 @@ This portfolio brings together selected cloud and SaaS writing samples with docu
 | **[Task Taxonomy](documentation-strategy/task-taxonomy.pdf)** | A user-goal-driven framework built around **Learn, Deploy, Operate, Protect, Monitor, and Automate**. |
 | **[Metadata Standards](documentation-strategy/metadata-standards.pdf)** | A classification and governance model that supports content discovery, ownership, and lifecycle management. |
 | **[Documentation Style Guide](documentation-strategy/documentation-style-guide.pdf)** | Practical editorial standards for task-based writing, UI documentation, diagrams, and technical reviews. |
+| **[Bug Reporting — Skillable](https://docs.skillable.com/docs/maintaining-lab-quality-with-skillables-bug-reporting)** | Published feature documentation with user-focused workflows and actionable guidance. |
+| **[Azure Cloud Slice with Bicep — Skillable](https://docs.skillable.com/docs/use-bicep-in-azure-cloud-slice-labs)** | Published cloud infrastructure procedures and infrastructure-as-code concepts. |
 | **[Release Notes — Curated Excerpt](product-communications/release-notes-excerpt.pdf)** | Outcome-focused feature announcements and clear customer-facing explanations of resolved issues. |
 
-> **About the featured artifacts:** The strategy samples and release-notes excerpt are adapted and anonymized from original professional work. They illustrate the approach and deliverables, not a live client's current documentation.
+> **About these samples:** The strategy samples and release-notes excerpt are adapted and anonymized from original professional work. The Skillable links lead to published, company-maintained articles that may have changed since my contribution.
+
+## 🔗 More published product documentation
+
+[Skillable Marketplace](https://docs.skillable.com/docs/skillable-marketplace) · [Skillable AI](https://docs.skillable.com/docs/skillable-ai)
+
+See [Technical Documentation](technical-documentation/) for article descriptions and contribution context.
 
 ## 🧪 Additional technical writing samples
 
