@@ -4,7 +4,7 @@ Technical documentation makes complex product behavior and workflows actionable.
 
 ## Featured product documentation
 
-The following articles were developed during my contract engagement with **Skillable**. They demonstrate different documentation challenges—from product overviews and feature workflows to AI capabilities and cloud infrastructure procedures.
+The following articles were developed during my contract engagement with **Skillable**. They demonstrate different documentation challenges, from product overviews and feature workflows to AI capabilities and cloud infrastructure procedures.
 
 ### [Maintaining Lab Quality with Skillable's Bug Reporting](https://docs.skillable.com/docs/maintaining-lab-quality-with-skillables-bug-reporting)
 
@@ -38,9 +38,11 @@ Introduces Skillable's AI capabilities and how they support content creation wor
 
 **Demonstrates:** Explaining emerging product functionality and connecting capabilities to user outcomes.
 
-*Attribution note: I contributed to these articles during my Skillable engagement. The links point to Skillable-maintained documentation, which may have been revised after my work was completed. In particular, the AI article has a post-engagement update; its current contents should not be taken as a verbatim record of my original draft.*
+>*Attribution note: I contributed to these articles during my Skillable engagement. The links point to Skillable-maintained documentation, which may have been revised after my work was completed. In particular, the AI article has a post-engagement update; its current contents should not be taken as a verbatim record of my original draft.*
 
 ## Additional technical writing samples
+
+### Lab guides
 
 These earlier lab guides demonstrate hands-on instructional design, technical procedures, command-line workflows, and validation steps.
 
@@ -49,10 +51,10 @@ These earlier lab guides demonstrate hands-on instructional design, technical pr
 - [Moving an API Endpoint to an Azure Function](lab-guides/Moving%20an%20API%20Endpoint%20to%20an%20Azure%20Function.md)
 - [Identifying Landmarks with Vision API](lab-guides/Identifying%20Landmarks%20with%20Vision%20API.md)
 
+>*Historical sample note: These labs were written for specific training environments. Version numbers, console navigation, and authentication steps may be outdated and should not be used as current operational guidance.*
+
 ### Visual communication
 
 [Quick Study Design Infographic](visual-samples/Quick%20Study%20Design%20Infographic.pdf) — A supporting example of instructional design and visual explanation.
-
-*Historical sample note: These labs were written for specific training environments. Version numbers, console navigation, and authentication steps may be outdated and should not be used as current operational guidance.*
 
 [← Back to portfolio](../README.md)
